@@ -1,1 +1,1 @@
-# linear-Regression-basic-
+# Tevta AI/ML Projects
